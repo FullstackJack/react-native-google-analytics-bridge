@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-analytics-bridge",
-  "version": "7.2.0",
+  "version": "7.2.1",
   "description": "React Native bridge for using native Google Analytics libraries on iOS and Android",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idehub/react-native-google-analytics-bridge.git"
+    "url": "git+https://github.com/FullStackJack/react-native-google-analytics-bridge.git"
   },
   "author": "Idéhub AS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/idehub/react-native-google-analytics-bridge/issues"
+    "url": "https://github.com/FullStackJack/react-native-google-analytics-bridge/issues"
   },
-  "homepage": "https://github.com/idehub/react-native-google-analytics-bridge#readme",
+  "homepage": "https://github.com/FullStackJack/react-native-google-analytics-bridge#readme",
   "keywords": [
     "react",
     "native",
@@ -54,7 +54,7 @@
     "documentation": "^8.0.0",
     "husky": "^0.14.3",
     "prettier": "^1.6.1",
-    "react-native": "^0.63.4",
+    "react-native": "0.62.2",
     "typescript": "^2.5.2"
   }
 }
