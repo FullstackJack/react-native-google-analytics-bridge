@@ -1,5 +1,4 @@
 #import "GoogleAnalyticsPayload.h"
-#import <React/RCTLog.h>
 #import <React/RCTConvert.h>
 #import "GAI.h"
 #import "GAIFields.h"
